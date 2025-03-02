@@ -13,3 +13,8 @@ wikipedia
 lxml
 langchain_huggingface
 langchain-groq
+streamlit
+youtube_transcript_api
+langgraph-cli[inmem]
+google-auth
+google-auth-oauthlib
