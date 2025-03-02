@@ -1,3 +1,4 @@
+langgraph
 langchain
 python-dotenv
 langchain-openai
@@ -12,4 +13,3 @@ wikipedia
 lxml
 langchain_huggingface
 langchain-groq
-langgraph

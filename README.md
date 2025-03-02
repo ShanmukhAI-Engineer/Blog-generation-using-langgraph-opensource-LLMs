@@ -1,2 +1,2 @@
-# Automating-Blog-Generation-with-LangGraph-Open-Source-LLMs
-Automating Blog Generation with Lang Graph &amp; Open-Source LLMs
+# Blog-Generation-with-LangGraph-Open-Source-LLMs-automation
+Automating Blog Generation with Lang-Graph Lang-Chain Lang-flow Open-Source LLMs
